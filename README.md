@@ -17,7 +17,7 @@ Switched to branch 'new'
 
 ```
 # git add/commit等操作省略
-$ git push
+$ git push origin new
 fatal: The current branch new has no upstream branch.
 To push the current branch and set the remote as upstream, use
     git push --set-upstream origin new
